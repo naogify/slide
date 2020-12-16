@@ -1,6 +1,6 @@
 {
-	"markdown.marp.themes": [
-		"./theme/css/style.css"
-	],
+	// "markdown.marp.themes": [
+	// 	"./theme/css/style.css"
+	// ],
 	"markdown.marp.enableHtml":true
 }
