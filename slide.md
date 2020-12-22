@@ -52,6 +52,15 @@ section{
 
 ---
 
+## 解説する記事
+<small>神戸の夜景は何万ドル？衛星データを使って実際に計算してみた</small>
+
+![width:700px](images/sorabatake-article.png)
+
+https://sorabatake.jp/15363/
+
+---
+
 ## 100万ドルの夜景の根拠
 
 <small>
