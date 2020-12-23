@@ -1269,6 +1269,10 @@ section {
     font-size: 30px; }
   section.index {
     background-color: #e5e5e5; }
+  section.list-lg ol, section.list-lg ul {
+    padding-left: 100px; }
+  section.list-lg li {
+    font-size: 48px; }
 
 section.title {
   background-image: url("../images/vws_logo_tate.png") !important;

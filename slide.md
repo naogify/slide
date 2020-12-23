@@ -16,59 +16,11 @@ _paginate: false
 <!-- _class: title -->
 ![bg](themes/vk-slide/images/vws_title_01_red.svg)
 
-VWS オンライン勉強会 #017
+年末特別企画
 
-# 実績紹介サイト解説＆年末忘年会
+# GoTo Vektor! 2020<br>クリスマスクイズ大会！
 
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# はじめに
-
----
-
-* 随時途中で質問などいただいてかまいません。
-* 発言時以外はミュートにしてください。
-（テレビ・同居人・外部の騒音）
-* 質問はチャットでいただいても結構です。
-* 一部録画・公開します。
-* ライブビューイングのノリでチャットでわいわいいただければと思います。
-
----
-
-## ミーティング中のチャット
-
-今回はミーティング中のチャットはzoomの中ではなく slack で行います。
-以下の #ミーティング チャンネルで行いますので、事前にテストで適当に挨拶など書き込んでみてください。
-
-https://app.slack.com/client/TG8RZN3SM/C01A20ZGWMN/details/top
-
----
-
-※上記URLでなくても普通にSlackのアプリを既にご利用されている方はSlackアプリから参加いただければ結構です。
-https://slack.com/intl/ja-jp/downloads/
-
----
-
-## Slackにまだ登録していない
-
-vwsのslackに登録していない方は予め下記より申請ください。
-
-https://vws.vektor-inc.co.jp/vws-community
-
----
-
-## Slackログイン情報がわからない
-
-申請したにも関わらずログイン方法がわからない場合は以下のURLからログインしてください
-https://vektor-vws.slack.com/forgot/signin
-
-■ VWSのSlackのURL
-https://vektor-vws.slack.com
-
+クイズに答えて豪華賞品（自称）プレゼント！
 
 ---
 
@@ -76,9 +28,83 @@ https://vektor-vws.slack.com
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 運営者紹介
+# 事前説明
 
 
+---
+
+## ルール
+
+* 問題の早押しクイズです。
+* 早押しなので正解は一人だけ。
+* 10問出しますので、正解数の多い人が優勝です。
+* 優勝の人から好きな賞品が選べます。
+
+クイズ正解者の中で順位の決着がつかない場合は「オンラインジャンケンシステム」での順位決定を行います。
+
+---
+
+## 参加登録
+
+※登録しないと結果の集計および賞品の受け渡しができません。
+
+https://docs.google.com/forms/d/1JAZ_NM6Lqo0bRmdIYrpBnErPafCGvX8L9r2n4vB8p2w/edit
+
+
+### クイズ会場
+
+[こちら](https://loungegame.site/enter/aWQ9MjI0MTcmdG9rZW49U0ZNeU5UWS5nM1FBQUFBQ1pBQUVaR0YwWVdJQUFGZVJaQUFHYzJsbmJtVmtiZ1lBdkFQd2IzWUIuSFVSS3VlWkx6TE5rcmo4YlNtdGRNaWE3ZnVEZW5QZDJ5U0ZlNDYyR2tFRQ)に入室してしばらくお待ちください。
+
+---
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+気になる賞品はこちら！
+
+# 賞品紹介
+
+---
+
+## A賞 ベクトルグッズ
+お好みのアイテム１点
+
+## B賞 ベクトルグッズ
+
+3,000円以下のアイテムから 1点
+
+![bg right:35%](images/suzuri.png)
+
+https://suzuri.jp/vektor
+
+---
+
+## C賞 VWS ポイント 4000
+
+## D賞 VWS ポイント 2000
+
+## E賞 プライベートサポート１回
+※ コード10行程度で対応できるカスタマイズ範囲内
+
+---
+
+
+<!-- _class: title-chapter  -->
+<!-- _paginate: false  -->
+![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
+
+# 練習問題
+
+---
+
+# WordPress の現在の最新バージョンは次のうち何番？
+
+---
+
+<!-- _class: list-lg  -->
+
+<<<<<<< HEAD
 ---
 
 ## ハッシュタグは #wpvektor
@@ -88,6 +114,14 @@ https://vektor-vws.slack.com
 https://commentscreen.com/comments?id=llNSmnBNFclf8ZxooY5M
 
 ※twitterに#wpvektorをつけて呟くとこちらにも反映されます。
+=======
+1. 4.9
+1. 5.0
+1. 5.5
+1. 5.5.6
+1. 5.6
+1. 6.0
+>>>>>>> upstream/20201217_quiz
 
 ---
 
@@ -95,16 +129,97 @@ https://commentscreen.com/comments?id=llNSmnBNFclf8ZxooY5M
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 本日の内容
+# 問題
 
 ---
 
-* 新機能解説
-* 実績紹介サイト説明
-* 質問相談会
-* 年末プレゼント企画
-* 連絡事項
-* 懇親会（続ゲーム大会&質問相談会）
+# Lightningが使えるCMSの正式名称は何番？
+
+---
+<!-- _class: list-lg  -->
+1. Wordpress
+1. wordpress
+3. WordPress
+4. WorldPress
+5. ワードプレス
+
+---
+
+#  Lightningを開発している会社名の正式名称は何番？
+
+---
+<!-- _class: list-lg  -->
+1. 株式会社ベクター
+1. ベクトル株式会社
+1. 株式会社ベクトル
+1. 株式会社ビズベクトル
+
+---
+
+# 株式会社ベクトルの「ベクトル」の正しい綴りは何番？
+
+---
+<!-- _class: list-lg  -->
+1. Vector
+1. Vekter
+1. Vecter
+1. Vektor
+
+---
+
+# ベクトルが最初にリリースした無料WordPressテーマの名前は何番？
+
+---
+<!-- _class: list-lg  -->
+1. Lightning
+1. BizVektor
+1. Katawara
+1. BillVektor
+
+---
+
+# 石川さんの下の名前は何？
+
+---
+
+# プラグインExUnitの正式名称は何？
+
+---
+
+# 株式会社ベクトルの本店所在地があるのは何県何市？
+
+---
+
+# ベクトルはフルリモート勤務ですが以下の内、ベクトルメンバーが住んでいない県は何番？
+
+---
+<!-- _class: list-lg  -->
+1. 東京都
+1. 和歌山県
+1. 山口県
+1. 兵庫県
+
+---
+<!-- _class: list-lg  -->
+# 石川さんの趣味じゃないものは何番？
+
+---
+<!-- _class: list-lg  -->
+1. バイク
+1. 将棋
+1. キャンプ
+1. 自作PC
+
+---
+
+# 石川さんが最近購入したお気に入りものは何番？
+
+---
+<!-- _class: list-lg  -->
+1. ガンダムのプラモデル
+1. 360度カメラ
+1. スケートボード
+1. キャンプ用アルコールランプ
 
 ---
 
@@ -112,23 +227,12 @@ https://commentscreen.com/comments?id=llNSmnBNFclf8ZxooY5M
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 今月の新機能紹介
+順位がつかない場合のみ
 
----
+# 順位決定戦
 
-https://www.vektor-inc.co.jp/product-update/
 
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 実績サイト解説
-
----
-
-https://showcase.vektor-inc.co.jp/
+https://www.jan-ken.com/
 
 ---
 
@@ -136,27 +240,9 @@ https://showcase.vektor-inc.co.jp/
 <!-- _paginate: false  -->
 ![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
 
-# 今年の振り返り & <br>アドベントカレンダー関連
 
----
+# - 終 了 -
 
-https://adventar.org/calendars/5169
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# 年末特別企画 クイズ大会
-
----
-
-<!-- _class: title-chapter  -->
-<!-- _paginate: false  -->
-![bg](themes/vk-slide/images/vws_title_01_lightgray.svg)
-
-# そのほか質問などあれば
 
 ---
 

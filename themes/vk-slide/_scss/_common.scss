@@ -66,4 +66,12 @@ section {
 	&.index {
 		background-color:#e5e5e5;
 	}
+	&.list-lg {
+		ol,ul {
+			padding-left:100px;
+		}
+		li {
+			font-size:48px;
+		}
+	}
 }
