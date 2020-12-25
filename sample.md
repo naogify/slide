@@ -39,6 +39,9 @@ section{
 
 <!-- _class: title -->
 # 僕たちはそろそろ<br>カスタムブロック開発の後方互換が<br>辛い問題に立ち向かわなければ<br>いけない。
+<small>2020.12.26</small><small> @ Tokyo WordPress Meetup</small>
+
+大橋直記
 
 
 
